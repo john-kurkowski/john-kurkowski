@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 I'm John
 
-<!--
-**john-kurkowski/john-kurkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full stack web developer, leaning toward frontend, **user experience
+(UX)** development. With 14+ years of experience, I'm passionate about users,
+code quality, and raising the capability of the team. I tend to work in
+TypeScript and Python.
 
-Here are some ideas to get you started:
+Here on GitHub, you can find me maintaining
+[tldextract](https://github.com/john-kurkowski/tldextract), a Python library to
+parse URLs, and [music](https://github.com/john-kurkowski/music), a Python CLI
+to publish my music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not coding, I mix beats and cocktails. 🍸
