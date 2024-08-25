@@ -1,4 +1,4 @@
-# 👋 I'm John
+# 👋 I'm John!
 
 I’m a full stack web developer, leaning toward frontend, **user experience
 (UX)** development. With 14+ years of experience, I'm passionate about users,
