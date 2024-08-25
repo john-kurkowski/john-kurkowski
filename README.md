@@ -21,7 +21,7 @@ Here on GitHub, you can find me maintaining the following projects.
 
 </td>
 <td>
-A Python library to parse URLs
+Python library to parse URLs.
 </td>
 </tr>
 <tr>
@@ -33,9 +33,7 @@ A Python library to parse URLs
 <td>
 </td>
 <td>
-
-A Python CLI to publish my music
-
+Python CLI to publish my music.
 </td>
 </tr>
 </tbody>
