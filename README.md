@@ -11,10 +11,14 @@ Here on GitHub, you can find me maintaining the following projects.
 <tbody>
 <tr>
 <td>
+
 [tldextract](https://github.com/john-kurkowski/tldextract)
+
 </td>
 <td>
+
 [![PyPI version](https://badge.fury.io/py/tldextract.svg)](https://badge.fury.io/py/tldextract)
+
 </td>
 <td>
 A Python library to parse URLs
@@ -22,12 +26,16 @@ A Python library to parse URLs
 </tr>
 <tr>
 <td>
+
 [music](https://github.com/john-kurkowski/music)
+
 </td>
 <td>
 </td>
 <td>
+
 A Python CLI to publish my music
+
 </td>
 </tr>
 </tbody>
