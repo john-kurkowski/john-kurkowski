@@ -7,10 +7,30 @@ TypeScript and Python.
 
 Here on GitHub, you can find me maintaining the following projects.
 
-| [tldextract](https://github.com/john-kurkowski/tldextract) |
+<table>
+<tbody>
+<tr>
+<td>
+[tldextract](https://github.com/john-kurkowski/tldextract)
+</td>
+<td>
 [![PyPI version](https://badge.fury.io/py/tldextract.svg)](https://badge.fury.io/py/tldextract)
-| A Python library to parse URLs | |
-[music](https://github.com/john-kurkowski/music) | | A Python CLI to publish my
-music |
+</td>
+<td>
+A Python library to parse URLs
+</td>
+</tr>
+<tr>
+<td>
+[music](https://github.com/john-kurkowski/music)
+</td>
+<td>
+</td>
+<td>
+A Python CLI to publish my music
+</td>
+</tr>
+</tbody>
+</table>
 
 When I’m not coding, I mix beats and cocktails. 🍸
