@@ -39,4 +39,7 @@ Python CLI to publish my music.
 </tbody>
 </table>
 
+Learn more about my approach to software development on
+[my website](https://johnkurkowski.com/).
+
 When I’m not coding, I mix beats and cocktails. 🍸
