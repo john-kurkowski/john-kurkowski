@@ -8,6 +8,14 @@ TypeScript and Python.
 Here on GitHub, you can find me maintaining the following projects.
 
 <table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Version</th>
+<th>Used By</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td>
@@ -16,12 +24,18 @@ Here on GitHub, you can find me maintaining the following projects.
 
 </td>
 <td>
+Python library to parse URLs.
+</td>
+<td>
 
 [![PyPI version](https://badge.fury.io/py/tldextract.svg)](https://badge.fury.io/py/tldextract)
 
 </td>
+
 <td>
-Python library to parse URLs.
+
+[33k+ repositories, 470+ packages](https://github.com/john-kurkowski/tldextract/network/dependents)
+
 </td>
 </tr>
 <tr>
@@ -31,9 +45,11 @@ Python library to parse URLs.
 
 </td>
 <td>
+Python CLI to publish my music.
 </td>
 <td>
-Python CLI to publish my music.
+</td>
+<td>
 </td>
 </tr>
 </tbody>
