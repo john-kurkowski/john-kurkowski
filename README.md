@@ -1,8 +1,7 @@
 # 👋 I'm John!
 
-I’m a full stack web developer, leaning toward frontend, **user experience
-(UX)** development. With 14+ years of experience, I'm passionate about users,
-code quality, and raising the capability of the team. I tend to work in
+I'm a full stack web developer, frontend-leaning. With 14+ years in the game,
+I'm obsessed with UX, DX, and raising team capability. I tend to work in
 TypeScript and Python.
 
 Here on GitHub, you can find me maintaining the following projects.
