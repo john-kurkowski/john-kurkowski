@@ -1,8 +1,9 @@
 # 👋 I'm John!
 
-I'm a full stack web developer, frontend-leaning. With 14+ years in the game,
-I'm obsessed with UX, DX, and raising team capability. I tend to work in
-TypeScript and Python.
+I’m a full stack web developer, frontend-leaning. I’m obsessed with UX, DX, and
+raising team capability. With 14+ years in the game, I help teams ship
+incrementally, without rewrites. Test to serve the team, not a metric. Debug any
+app, existing or legacy. I tend to work in TypeScript and Python.
 
 Here on GitHub, you can find me maintaining the following projects.
 
