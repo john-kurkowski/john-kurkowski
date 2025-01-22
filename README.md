@@ -2,8 +2,10 @@
 
 I’m a full stack web developer, frontend-leaning. I’m obsessed with UX, DX, and
 raising team capability. With 14+ years in the game, I help teams ship
-incrementally, without rewrites. Test to serve the team, not a metric. Debug any
-app, existing or legacy. I tend to work in TypeScript and Python.
+incrementally, with test coverage confidence, without rewrites. Debug any app,
+existing or legacy. Collaborate on distributed teams via docs, code review, and
+mentorship. I tend to work in TypeScript and Python, and I love learning new
+tech.
 
 Here on GitHub, you can find me maintaining the following projects.
 
@@ -34,7 +36,7 @@ Python library to parse URLs.
 
 <td>
 
-[33k+ repositories, 470+ packages](https://github.com/john-kurkowski/tldextract/network/dependents)
+[35k+ repositories, 500+ packages](https://github.com/john-kurkowski/tldextract/network/dependents)
 
 </td>
 </tr>
