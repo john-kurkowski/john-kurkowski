@@ -1,7 +1,7 @@
 # 👋 I'm John!
 
 I’m a full stack web developer, frontend-leaning. I’m obsessed with UX, DX, and
-raising team capability. With 14+ years in the game, I help teams ship
+raising team capability. With 15+ years in the game, I help teams ship
 incrementally, with test coverage confidence, without rewrites. Debug any app,
 existing or legacy. Collaborate on distributed teams via docs, code review, and
 mentorship. I tend to work in TypeScript and Python, and I love learning new
@@ -60,4 +60,4 @@ Python CLI to publish my music.
 Learn more about my approach to software development on
 [my website](https://johnkurkowski.com/).
 
-When I’m not coding, I mix beats and cocktails. 🍸
+When I’m not coding, I mix beats and cocktails. 🎧🍸
